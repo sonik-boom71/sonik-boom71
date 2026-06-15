@@ -83,6 +83,19 @@
 
 ---
 
+### 🚀 More Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **React Phone Catalog** — e-commerce store with filtering, sorting, i18n & dark theme | `React` `TypeScript` `Vite` | [Demo](https://sonik-boom71.github.io/react-phone-catalog/) · [Code](https://github.com/sonik-boom71/react-phone-catalog) |
+| **Hunter's Codex** — full-stack Supernatural encyclopedia: episode DB, bestiary, forum & auth | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | [Demo](https://supernatural-codex-naf5.vercel.app/) · [Code](https://github.com/sonik-boom71/supernatural-codex) |
+| **DevMetrics Dashboard** — developer dashboard with GitHub metrics, Pomodoro & PWA | `Next.js` `TypeScript` `TanStack` `Recharts` | [Demo](https://devmetrics-dashboard-two.vercel.app/) · [Code](https://github.com/sonik-boom71/devmetrics-dashboard) |
+| **LinkSnip** — ad-free URL shortener & pastebin built in Rust | `Rust` `Axum` `Serverless` | [Demo](https://linksnip-nine.vercel.app/) · [Code](https://github.com/sonik-boom71/linksnip) |
+
+<sub>📁 More on my <a href="https://sonik-boom71.github.io/resumesite/">portfolio site</a>.</sub>
+
+---
+
 ### 📫 Let's connect
 
 <a href="https://www.linkedin.com/in/maxim-davidiuk-73a38a399/">
