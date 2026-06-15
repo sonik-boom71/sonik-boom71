@@ -6,6 +6,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonik-boom71/sonik-boom71/main/wow.gif" width="700" alt="For the Horde!" />
+</p>
+
+<p align="center">
+  <i>⚔️ <b>Lok'tar Ogar!</b> — frontend dev by day, defending Azeroth by night 🐉</i>
+</p>
+
 ---
 
 ### 🧑‍💻 About me
@@ -25,6 +33,7 @@
 - 🎮 Building **interactive 3D experiences** on the web with Three.js
 - 🧑‍🏫 Teaching the next generation of devs — kids' coding courses
 - 🌐 Leveling up my English & looking for my first **frontend role**
+- ⚔️ Main spec **Frontend**, off-spec **3D & teaching** — grinding XP at Mate Academy
 
 ---
 
