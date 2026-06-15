@@ -19,6 +19,15 @@
 
 ---
 
+### 🌱 Currently working on
+
+- 🔭 Deepening my **React ecosystem** skills — TypeScript, state management, testing
+- 🎮 Building **interactive 3D experiences** on the web with Three.js
+- 🧑‍🏫 Teaching the next generation of devs — kids' coding courses
+- 🌐 Leveling up my English & looking for my first **frontend role**
+
+---
+
 ### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,6 +55,10 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonik-boom71&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonik-boom71&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonik-boom71/sonik-boom71/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
 </p>
 
 ---
@@ -96,6 +109,9 @@
 
 <a href="https://www.linkedin.com/in/maxim-davidiuk-73a38a399/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://t.me/TeaErlGrey">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
 <br/>
