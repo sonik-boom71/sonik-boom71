@@ -48,10 +48,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonik-boom71&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonik-boom71&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
 
 ### 🌟 Featured Project
