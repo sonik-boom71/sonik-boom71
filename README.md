@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Maxim 👋</h1>
+<h1 align="center">Hi there, I'm Maksym 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maxim-davidiuk-73a38a399/">
